@@ -1,0 +1,8 @@
+c:\users\tina\documents\visual studio 2015\Projects\BlogDBConsole\BlogDBConsole\bin\Debug\BlogDBConsole.exe.config
+c:\users\tina\documents\visual studio 2015\Projects\BlogDBConsole\BlogDBConsole\bin\Debug\Database1.mdf
+c:\users\tina\documents\visual studio 2015\Projects\BlogDBConsole\BlogDBConsole\bin\Debug\Database1_log.ldf
+c:\users\tina\documents\visual studio 2015\Projects\BlogDBConsole\BlogDBConsole\bin\Debug\BlogDBConsole.exe
+c:\users\tina\documents\visual studio 2015\Projects\BlogDBConsole\BlogDBConsole\bin\Debug\BlogDBConsole.pdb
+c:\users\tina\documents\visual studio 2015\Projects\BlogDBConsole\BlogDBConsole\obj\Debug\BlogDBConsole.csprojResolveAssemblyReference.cache
+c:\users\tina\documents\visual studio 2015\Projects\BlogDBConsole\BlogDBConsole\obj\Debug\BlogDBConsole.exe
+c:\users\tina\documents\visual studio 2015\Projects\BlogDBConsole\BlogDBConsole\obj\Debug\BlogDBConsole.pdb
